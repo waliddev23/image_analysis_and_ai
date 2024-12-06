@@ -49,4 +49,6 @@ The second notebook, `train.ipynb`, focuses on fine-tuning the SAM2 model over 3
 - **Strengths**: The model performs well on specific object detection tasks, especially when using bounding box prompts , and it was able to detect objects that where not even masked in the input dataset .  
 - **Limitations**:  from  Some challenges remain in precisely identifying objects, highlighting areas for further fine-tuning or dataset augmentation.  
 
+### Model Fine-Tuning Results
+![Fine-tuning Results](images/output.png "Fine-tuning Accuracy and IoU Metrics")
 
